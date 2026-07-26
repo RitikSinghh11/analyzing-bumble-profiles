@@ -133,19 +133,29 @@ bumble-user-analysis
 
 ### Data Cleaning
 
-*(Add Screenshot)*
+<img width="987" height="500" alt="image" src="https://github.com/user-attachments/assets/ade03fdb-d28a-47ff-95d8-a31472c2dca4" />
+
 
 ---
 
-### Exploratory Data Analysis
+### Income Group Distribution
 
-*(Add Screenshot)*
+<img width="561" height="465" alt="image" src="https://github.com/user-attachments/assets/6848daa8-5435-4dab-a794-5aa124fba391" />
+
 
 ---
 
-### Data Visualizations
+### Missing Data Heatmap
 
-*(Add Screenshot)*
+<img width="731" height="532" alt="image" src="https://github.com/user-attachments/assets/ae578d53-64bc-4e74-828d-b3d01723ce8e" />
+
+
+---
+
+### Age Distribution by Gender
+
+<img width="656" height="406" alt="image" src="https://github.com/user-attachments/assets/56348b8e-705e-4c64-876a-9966f2efa619" />
+
 
 ---
 
