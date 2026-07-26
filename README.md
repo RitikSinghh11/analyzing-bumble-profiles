@@ -1,4 +1,4 @@
-# 💛 Bumble User Analysis
+## 💛 Bumble User Analysis
 
 <p align="center">
 
@@ -12,19 +12,19 @@
 
 ---
 
-# 📖 Project Overview
+## 📖 Project Overview
 
 This project presents an end-to-end exploratory data analysis (EDA) of Bumble user data using Python. The analysis explores demographic characteristics, lifestyle preferences, income distribution, geographic patterns, and user behavior through data cleaning, feature engineering, statistical analysis, and data visualization.
 
 ---
 
-# 🎯 Business Problem
+## 🎯 Business Problem
 
 Online dating platforms collect large amounts of user information that can be analyzed to understand demographic trends, lifestyle choices, and behavioral patterns. Extracting meaningful insights from this data helps support user segmentation and informed business decisions.
 
 ---
 
-# 🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Clean and preprocess raw user data.
 - Handle missing values and inconsistent records.
@@ -35,7 +35,7 @@ Online dating platforms collect large amounts of user information that can be an
 
 ---
 
-# 📂 Dataset Overview
+## 📂 Dataset Overview
 
 The dataset contains information related to:
 
@@ -55,7 +55,7 @@ The dataset contains information related to:
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -68,7 +68,7 @@ The dataset contains information related to:
 
 ---
 
-# 🧠 Analysis Performed
+## 🧠 Analysis Performed
 
 ### Data Cleaning
 
@@ -101,7 +101,7 @@ The dataset contains information related to:
 
 ---
 
-# 📈 Key Insights
+## 📈 Key Insights
 
 - Explored demographic distribution of Bumble users.
 - Identified relationships between age, income, and education.
@@ -111,7 +111,7 @@ The dataset contains information related to:
 
 ---
 
-# 📂 Repository Structure
+## 📂 Repository Structure
 
 ```text
 bumble-user-analysis
@@ -149,7 +149,7 @@ bumble-user-analysis
 
 ---
 
-# 💼 Skills Demonstrated
+## 💼 Skills Demonstrated
 
 - Python Programming
 - Data Cleaning
@@ -162,7 +162,7 @@ bumble-user-analysis
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ritik Singh
 
